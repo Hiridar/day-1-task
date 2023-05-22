@@ -1,0 +1,13 @@
+1  Write a blog on Difference between HTTP1.1 vs HTTP2 ?  
+       HTTP = Hyper text transfer protocol.
+
+       1.1  =Is the protocol used to transfer data over the WEB.
+            =Internet leadscaps was constantly changing write website becoming more dynamic and heavy.
+            =TCP connect with creating between link and server.
+
+       2.0  =single TCP connection be used.
+            =In which stream are created and it's faster no need to multiple TCP connection.
+            =In that no one resource blocks any other resources.
+
+2  Write a blog about objects and its internal representation in Javascript ?                                                                           a)        *objects in JavaScript may be defined as an unordered collection of related data, of primitive or                reference types, in the form of “key: value” pairs.
+          * These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
